@@ -1,2 +1,2 @@
 # algoritimo-e-programacao
-repositorio com os codgos da disciplina
+repositorio com os codigos da disciplina
